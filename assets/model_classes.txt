@@ -1,0 +1,3 @@
+0 1-camisaFormal
+1 2-gorra
+2 3-playera
